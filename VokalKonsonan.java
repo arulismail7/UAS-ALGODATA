@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 /**
 * nama : sahrul ismail usman
 * nim : 20200040045
-* kelas : TI20A
+* kelas : Teknik Informatika 20 A
  */
 
 public class VokalKonsonan {
